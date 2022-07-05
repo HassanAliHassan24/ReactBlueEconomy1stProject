@@ -1,0 +1,55 @@
+/body {
+    /* background-image: url(../image/bluefish.jpg') */
+    background-repeat: no-repeat;
+    background-position: ;
+    background-size: cover;
+    /* background-color: black; */
+    text-align: center;
+
+}
+
+.contact-page li {
+    /* display: flex;
+    text-align: center;
+    width: 25%; */
+
+}
+.contact-page{
+    border: 1px solid#fff;
+    border-radius: 20px;
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    opacity: 0.60;
+    text-align: center;
+    
+
+}
+
+.round {
+    margin-top: 15%;
+}
+
+.round img {
+    border-radius: 50px;
+
+
+}
+
+.round h2,
+h5 {
+    text-align: center;
+    color: #fff;
+}
+
+.contact-page h1,
+h3 {
+    color: #fff;
+}
+
+.round img{
+    width:50%;
+     height:70px;
+     margin: 1rem;
+} 

@@ -1,0 +1,248 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body{
+    /* background-image: url("image/fish2.jpg"); */
+    /* background-color: black; */
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+  }
+
+.page{
+    display: flex;
+    flex-wrap: wrap;
+      /* background-image: url("blue.jpg");
+      margin-top: -20.9px;
+      background-size: auto;
+      background-repeat: no-repeat;
+      width: auto;
+      height: 200px;
+      width: auto;
+      background-position: center;
+      background-size: cover;
+      margin-left: -8px; */
+  
+      
+  }
+  
+  .pages{
+    background-image: url("image/header.jpg");
+      margin-top: -20.9px;
+      background-size: auto;
+      background-repeat: no-repeat;
+      width: auto;
+      /* height: 200px; */
+      width: auto;
+      background-position: center;
+      background-size: cover;
+      margin-left: -8px;
+      
+  }
+  h3 ,h1{
+      color: #fff;
+      /* height: 30px; */
+      margin-left: 20px;
+  }
+  ul{
+     margin-top: 40px;
+     /* padding-right: 10px; */
+     margin-right: 0px;
+     list-style: none;
+     font-weight: bold;
+     font-family: 'Times New Roman', Times, serif;
+     background-color: black;
+     
+     
+  }
+  
+  li{
+      float:right;
+      /* width: 150px; */
+      border-radius: 17px;
+      height: 30px;
+      margin-right: 20px;
+      /* border: 1px dashed black; */
+      text-align: center;
+  
+      
+  
+  
+  
+  }
+  
+  li > a{
+      
+      color: #fff;
+      text-align: center;
+      padding: 10px 20px;
+      text-decoration: none;
+      transition: .2s ease;
+      cursor: pointer;
+      text-decoration: none;
+      /* margin-left: 60px; */
+      
+  }
+  
+  li > a:hover{
+      background-color: #fff;
+      border-radius: 10px;
+      color: blue;
+      border: none;
+      border: solid;
+      border-top: none;
+      border-left: none;
+      border-right: none;
+      height: 15px;  
+      
+  }
+  
+   button{
+      width: 90px;
+      height: 40px;
+      margin-top: 10px;
+      margin-bottom: 20px;
+      /* margin-left: 80%; */
+      /* float: right; */
+      cursor: pointer;
+      background-color: transparent;
+      border: 2px solid #fff;
+      margin-right: 10px;
+      border-radius: 17px;
+      font-size: 14px;
+  
+  }
+  button , a{
+      text-decoration: none;
+      cursor: pointer;
+      color: #fff;
+      font-weight: bold;
+      
+   
+  }
+  
+  button:hover{
+    background-color: darkturquoise;
+    color: #fff;
+  }
+  button, a:hover{
+      color: #fff;
+  
+  }
+
+  .contact-page{
+      background-color: darkcyan;
+      opacity: 0.80;
+      /* background-image: url("image/blacksea.jpeg"); */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      border: 2px solid #fff;
+      border-radius: 1px;
+      text-align: center;
+  }
+  .contact-page,h2{
+      color: #fff;
+      
+  }
+  img{
+      border-radius: 50px;
+      border: 3px solid #fff;
+      display: inline;
+     
+       
+  
+  }
+  .image{
+    
+
+  }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FA-FA ICON */
+
+/* .fa{
+	color: #fff;
+	font-size: 40px;
+	text-align: center;
+	/* padding-left: 5px; */
+	/* margin-top: 200px; */
+	/* border: 1px solid wheat; */
+	/* margin-left: auto; */
+	/* /* margin-right: auto; */ */
+	width: 100%;
+	/* padding-top: 0px; */
+} */
+
+/* a{ */
+	
+	/* margin-left: 10px; */
+	/* margin-right: 100px; */
+	/* text-decoration: none; */
+	/* margin-left: 100px; */
+	
+	
+}
+/* .fa2{
+	/* border: 1px solid; */
+	margin: 0px auto;
+}
+/* 
+.fa2 > a{
+	border: 3px solid #fff;
+	width: 45px;
+	/* height: 40px; */
+	/* border-radius: 100px; */
+	/* transition: .6s ease; */ */
+
+	
+	
+}
+/* 
+.fa2 > a:hover{
+	background-color: #fff;
+	color: black;
+	transition: .4 ease; */
+
+	
+} */
+
+

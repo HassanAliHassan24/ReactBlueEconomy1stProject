@@ -1,0 +1,13 @@
+.container {
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.form-horizontal{
+    border: solid blue;
+    margin-top: 100px;
+    height: 500px;
+    width: 500px;
+    margin-left: 500px;
+}

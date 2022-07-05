@@ -1,0 +1,86 @@
+body {
+    /* background-image: url("../image/header.jpg"); */
+    
+}
+.form-group{
+    text-align: center;
+    
+}
+label::after{
+    content: " *";
+    color: red;
+    font-weight: bold;
+    
+}
+label{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+
+.formclass{
+    border: 3px solid #fff;
+    background: black;
+    opacity: 0.70;
+    border-radius: px;
+    /* height: 100px; */
+    box-sizing: border-box;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: 90px;
+    /* background-image: url("../image/gold.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+ .form-group > input ,select{
+    
+     border-top: 3px solid darkblue;
+     outline: none;
+     border-left: 3px solid darkblue;
+     border-bottom: 3px solid darkblue;
+     border-right: 3px solid darkblue;
+     text-align: center;
+     color: black;
+     border-color: 3px solid red;
+     font-weight: bold;
+     background: #fff;
+     /* width: 50%; */
+     border-radius: 20px;
+     /* height: 25px; */
+ 
+}
+button{
+    outline: none;
+     border-color: blue;
+     width: 15%;
+     height: 30px;
+     border-radius: 17px;
+     text-align: center;
+     align-items: center; 
+     margin-top: 30px;
+     margin-left: 40px;
+     margin-right: 40px;
+     background-color: blue;
+     color: #fff;
+     font-weight: bold;
+     font-weight: bold;
+     cursor: pointer;
+     border-top: 3px solid #fff;
+     outline: none;
+     border-left: 3px solid #fff;
+     border-bottom: 3px solid #fff;
+     border-right: 3px solid #fff;
+}
+button:hover{
+    background-color: red;
+    color: #fff;
+    outline: none;
+}

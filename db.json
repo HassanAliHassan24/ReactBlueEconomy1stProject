@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "FirstName": "Hassan",
+      "LastName": "Ali",
+      "Email": "hassanrai922@gmail.com",
+      "Username": "ramires",
+      "Password": "123456",
+      "PhoneNumber": "0774661603",
+      "Fishertype": "footfisher",
+      "Address": "Magomeni",
+      "id": 1
+    },
+    {
+      "FirstName": "hassan",
+      "LastName": "moha",
+      "Email": "hassa@gmail.com",
+      "Username": "akiiii",
+      "Password": "983829",
+      "PhoneNumber": "",
+      "Fishertype": "eiwiepwi",
+      "Address": "",
+      "phoneNumber": "09238034802840",
+      "": "meli4",
+      "id": 2
+    },
+    {
+      "FirstName": "hassan",
+      "LastName": "moha",
+      "Email": "hassa@gmail.com",
+      "Username": "akiiii",
+      "Password": "983829",
+      "PhoneNumber": "",
+      "Fishertype": "eiwiepwi",
+      "Address": "",
+      "phoneNumber": "09238034802840",
+      "": "meli4",
+      "id": 3
+    },
+    {
+      "FirstName": "hassan",
+      "LastName": "moha",
+      "Email": "hassa@gmail.com",
+      "Username": "akiiii",
+      "Password": "983829",
+      "PhoneNumber": "",
+      "Fishertype": "eiwiepwi",
+      "Address": "",
+      "phoneNumber": "09238034802840",
+      "": "meli4",
+      "id": 4
+    },
+    {
+      "FirstName": "hassan",
+      "LastName": "moha",
+      "Email": "hassa@gmail.com",
+      "Username": "akiiii",
+      "Password": "983829",
+      "PhoneNumber": "",
+      "Fishertype": "eiwiepwi",
+      "Address": "",
+      "phoneNumber": "09238034802840",
+      "": "meli4",
+      "id": 5
+    },
+    {
+      "FirstName": "abdull-xalamy",
+      "LastName": "abbas",
+      "Email": "abd@gmail.com",
+      "Username": "okosovo",
+      "Password": "098765",
+      "PhoneNumber": "",
+      "Fishertype": "foort",
+      "Address": "",
+      "phoneNumber": "099876565556",
+      "": "Meli 4",
+      "id": 6
+    },
+    {
+      "FirstName": "abdull-xalamy",
+      "LastName": "abbas",
+      "Email": "abd@gmail.com",
+      "Username": "okosovo",
+      "Password": "098765",
+      "PhoneNumber": "",
+      "Fishertype": "foort",
+      "Address": "",
+      "phoneNumber": "099876565556",
+      "": "Meli 4",
+      "id": 7
+    },
+    {
+      "FirstName": "Idrissa",
+      "LastName": "Abass",
+      "Email": "idd@gmail.com",
+      "Username": "Zila",
+      "Password": "12345678",
+      "PhoneNumber": "",
+      "Fishertype": "Ngalawa",
+      "Address": "",
+      "phoneNumber": "0773063636",
+      "": "Kidumni",
+      "id": 8
+    }
+  ]
+}
